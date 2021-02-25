@@ -2,5 +2,5 @@
 
 hello world project
 
-test sadsad q
+test sadsad
 
